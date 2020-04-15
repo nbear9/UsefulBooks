@@ -19,7 +19,7 @@
 1. Как писать документацию, и делать это хорошо:
     1. Ильяхов Максим, Сарычева Людмила [Пиши, сокращай. Как создавать сильный текст](https://biznesassorti.info/wp-content/uploads/2017/11/lesswrite.pdf). Как писать тексты на человеческом языке, не канцеляритом.
     1. Сергей Абдульманов. [Евангелист бизнеса](https://www.litres.ru/sergey-abdulmanov/evangelist-biznesa/). Вся книга хорошая, есть целый раздел, посвящённый тому, как писать интересно.
-    1. ...
+    1. [Как писать документацию согласно ГОСТ 34*](https://habr.com/ru/post/122700/), и место, где могут [найтись эти ГОСТы](https://www.swrit.ru/gost-34.html) плюс комментарии к ним
 1. Для начинающих специалистов АСУТП:
     1. Андрей Орлов. [Записки автоматизатора](http://orlov-resume.narod.ru/itnotes.htm). Очень полезная книга в целом, учит именно правильно работать.
-    1. ...
+    1. Петров И.В. [Программируемые контроллеры. Стандартные языки и приемы прикладного проектирования](http://techliter.ru/load/uchebniki_posobya_lekcii/avtomatizacija_proizvodstvennykh_processov/programmiruemye_kontrollery_standartnye_jazyki_i_priemy_prikladnogo_proektirovanija_petrov_i_v/50-1-0-851). Книга не самая новая, но понятная, для начинающих очень подходящая.
